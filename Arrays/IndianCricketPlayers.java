@@ -27,7 +27,7 @@ class IndianCricketPlayers {
             player9,
             player10,
 
-            // Implicit references
+            
             "Abhishek Sharma",
             "Tilak Varma",
             "Shreyas Iyer",
